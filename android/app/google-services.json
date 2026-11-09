@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914412184506",
+    "project_id": "trimify-14787",
+    "storage_bucket": "trimify-14787.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914412184506:android:6e327f937ada87a50cf383",
+        "android_client_info": {
+          "package_name": "com.dbtechRajat.trimify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARPtUka-NQnHc1tyMvTKFP-cWBDjN5oYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
